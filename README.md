@@ -1,2 +1,2 @@
 # 32602100078_Arkaan
-Web Programming 2023
+Praktikum Web Programming 2023
